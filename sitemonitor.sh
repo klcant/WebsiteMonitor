@@ -3,3 +3,5 @@
 ./crawl.sh
 
 ./urlwatch.sh
+
+./copyfiles.sh
